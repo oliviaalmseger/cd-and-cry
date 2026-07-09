@@ -2,6 +2,6 @@
 
 Just a silly girl with silly ideas.
 
-![original](cdandcryolivia.jpg)
+![original](cdandcry.jpg)
 <br/>
 — the original. Everything else is a fork 😉
